@@ -97,7 +97,7 @@ button:hover{
     .container{
         display: flex;
         flex-direction: column;
-        width: clamp(90%, 45vw, 900px);
+        width: clamp(80%, 16rem, 900px);
         height: 90%;
         margin: 2rem auto;
     }
